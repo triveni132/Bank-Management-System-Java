@@ -213,7 +213,7 @@ Run the `Main.java` file, and you'll see the welcome banner and main menu:
 ![Main Menu](screenshots/main_menu.png)
 
 ### Account Creation
-![Account Creation](screenshots/account_creation.png)
+![Account Creation](screenshots/account_creaction.png)
 
 ### Transactions
 ![Transactions](screenshots/transactions.png)
